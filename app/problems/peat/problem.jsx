@@ -1,3 +1,9 @@
+import App from './App';
+
 export default function PeatProblem() {
-  return <div>peat</div>;
+  return (
+    <>
+      <App />
+    </>
+  );
 }
