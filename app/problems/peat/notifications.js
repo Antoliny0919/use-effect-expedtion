@@ -1,7 +1,6 @@
 // notifications.js
 
 import Toastify from 'toastify-js';
-import 'toastify-js/src/toastify.css';
 
 export function showNotification(message, theme) {
   Toastify({
